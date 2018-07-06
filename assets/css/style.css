@@ -1,0 +1,125 @@
+.nav-link {
+        height: 60px;
+        font-size: 30px;
+        margin: 10;
+        border: 0;
+        padding: 10;
+        vertical-align: middle;
+
+}
+
+.navbar-brand {
+        background-color: teal;
+        margin: 0;
+        height: 59.99px;
+        border: 0;
+        padding: 0;
+        font-size: 44px;        
+}
+
+.navbar {
+        height: 60px;
+        margin: 0;
+        border: 0;
+        padding: 0;
+        vertical-align: middle;
+
+}
+
+.c1 {
+        float: left;
+}
+
+.c2 {
+        float: inherit;
+}
+
+.c3 {
+        float: inherit;
+}
+.c4 {
+        float: right;
+}
+
+.r1 {
+        height: 10px;
+}
+
+
+.contentbox {
+        height: 500px;
+        background-color:white;  
+}
+
+.contentbox2 {
+        height: auto;
+        background-color:white;  
+        margin-bottom: 100px;
+}
+
+.contactbox {
+        height: auto;
+        background-color:white;  
+        margin: 10px 0px 100-x 0px;
+
+}
+
+.form-group {
+        margin: 10px;
+}
+
+.r1 {
+        border: 100px 0px 0px 0px;
+
+}
+
+.img-thumbnail {
+        height: auto;
+}
+.pic {
+        width: 30%;
+        float: left;
+        padding: 5px;
+}
+p{
+        float: inherit;
+}
+
+.col-xs-2, .col-md-2, .col-xs-8, .col-md-8, .col-xs-4, .col-md-4{
+        padding: 0;
+}
+
+.text-img {
+        position: relative;
+        height: 220px;
+        width: 290px;
+        float: left;
+        margin: 10px;
+}
+
+.img-thumbnail {
+        width: 290px;
+        height: 220px;
+        
+}
+.t1 {
+        position: absolute;    
+        color: red;
+        background-color: teal;
+        width: 280px;
+        text-align: center;
+        margin-left: 5px;
+        margin-top: 185px; 
+        font-weight: bold;
+        
+}
+
+.col-xs-4 {
+        background-color: aliceblue;
+        height: 400px;
+}
+
+.h11 {
+        color: teal;
+}
+
